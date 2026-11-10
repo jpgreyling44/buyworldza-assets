@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"
+     role="img" aria-label="BuyWorldZa">
+  <!-- BuyWorldZa mark: the world (globe with its orbit ring) and the buy-cart riding on it.
+       Three shapes only, because at 32px anything finer turns to mush. The ring is drawn BEFORE the
+       globe so it passes behind it, and it is stroked in the brand gradient rather than white — a
+       white ring is invisible on our white page, which is exactly how it looked in the first draft. -->
+  <defs>
+    <linearGradient id="bwz-globe" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b7a5a"/>
+      <stop offset=".52" stop-color="#0f8b8b"/>
+      <stop offset="1" stop-color="#1f74c9"/>
+    </linearGradient>
+    <linearGradient id="bwz-cart" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7b93f"/>
+      <stop offset="1" stop-color="#e08a10"/>
+    </linearGradient>
+  </defs>
+
+  <!-- orbit ring, behind the globe -->
+  <ellipse cx="25" cy="34" rx="27.5" ry="8.6" transform="rotate(-17 25 34)"
+           fill="none" stroke="url(#bwz-globe)" stroke-width="3.4"/>
+
+  <!-- globe -->
+  <circle cx="25" cy="30" r="20" fill="url(#bwz-globe)"/>
+  <path d="M5 30h40" stroke="#fff" stroke-opacity=".24" stroke-width="1.4"/>
+  <ellipse cx="25" cy="30" rx="8.6" ry="20" fill="none" stroke="#fff" stroke-opacity=".22" stroke-width="1.4"/>
+
+  <!-- buy-cart on its own disc so it never gets lost against the globe -->
+  <circle cx="45" cy="43.5" r="16" fill="#fff"/>
+  <circle cx="45" cy="43.5" r="14.8" fill="url(#bwz-cart)"/>
+  <g fill="none" stroke="#fff" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M35 34h4.6l3 13.6h11.2l3.2-10.6H39.4"/>
+  </g>
+  <circle cx="44" cy="53.4" r="2.5" fill="#fff"/>
+  <circle cx="52.8" cy="53.4" r="2.5" fill="#fff"/>
+</svg>

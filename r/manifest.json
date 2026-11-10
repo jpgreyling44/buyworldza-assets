@@ -1,0 +1,1786 @@
+{
+ "assets/art/african-queen.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/african-queen-1600.webp",
+   "400": "assets/r/art/african-queen-400.webp",
+   "800": "assets/r/art/african-queen-800.webp"
+  }
+ },
+ "assets/art/aurora-arcs.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/aurora-arcs-1600.webp",
+   "400": "assets/r/art/aurora-arcs-400.webp",
+   "800": "assets/r/art/aurora-arcs-800.webp"
+  }
+ },
+ "assets/art/bauhaus-blocks.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/bauhaus-blocks-1600.webp",
+   "400": "assets/r/art/bauhaus-blocks-400.webp",
+   "800": "assets/r/art/bauhaus-blocks-800.webp"
+  }
+ },
+ "assets/art/be-here-now.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/be-here-now-1600.webp",
+   "400": "assets/r/art/be-here-now-400.webp",
+   "800": "assets/r/art/be-here-now-800.webp"
+  }
+ },
+ "assets/art/be-nice-or-leave.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/be-nice-or-leave-1600.webp",
+   "400": "assets/r/art/be-nice-or-leave-400.webp",
+   "800": "assets/r/art/be-nice-or-leave-800.webp"
+  }
+ },
+ "assets/art/better-than-yesterday.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/better-than-yesterday-1600.webp",
+   "400": "assets/r/art/better-than-yesterday-400.webp",
+   "800": "assets/r/art/better-than-yesterday-800.webp"
+  }
+ },
+ "assets/art/bloom-line.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/bloom-line-1600.webp",
+   "400": "assets/r/art/bloom-line-400.webp",
+   "800": "assets/r/art/bloom-line-800.webp"
+  }
+ },
+ "assets/art/boho-arch-set.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/boho-arch-set-1600.webp",
+   "400": "assets/r/art/boho-arch-set-400.webp",
+   "800": "assets/r/art/boho-arch-set-800.webp"
+  }
+ },
+ "assets/art/boho-desert.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/boho-desert-1600.webp",
+   "400": "assets/r/art/boho-desert-400.webp",
+   "800": "assets/r/art/boho-desert-800.webp"
+  }
+ },
+ "assets/art/breathe.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/breathe-1600.webp",
+   "400": "assets/r/art/breathe-400.webp",
+   "800": "assets/r/art/breathe-800.webp"
+  }
+ },
+ "assets/art/city-rhythm.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/city-rhythm-1600.webp",
+   "400": "assets/r/art/city-rhythm-400.webp",
+   "800": "assets/r/art/city-rhythm-800.webp"
+  }
+ },
+ "assets/art/collection.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/collection-1600.webp",
+   "400": "assets/r/art/collection-400.webp",
+   "800": "assets/r/art/collection-800.webp"
+  }
+ },
+ "assets/art/color-balance.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/color-balance-1600.webp",
+   "400": "assets/r/art/color-balance-400.webp",
+   "800": "assets/r/art/color-balance-800.webp"
+  }
+ },
+ "assets/art/cosmic-drift.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/cosmic-drift-1600.webp",
+   "400": "assets/r/art/cosmic-drift-400.webp",
+   "800": "assets/r/art/cosmic-drift-800.webp"
+  }
+ },
+ "assets/art/dream-big.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/dream-big-1600.webp",
+   "400": "assets/r/art/dream-big-400.webp",
+   "800": "assets/r/art/dream-big-800.webp"
+  }
+ },
+ "assets/art/dune-layers.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/dune-layers-1600.webp",
+   "400": "assets/r/art/dune-layers-400.webp",
+   "800": "assets/r/art/dune-layers-800.webp"
+  }
+ },
+ "assets/art/garage-badge.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/garage-badge-1600.webp",
+   "400": "assets/r/art/garage-badge-400.webp",
+   "800": "assets/r/art/garage-badge-800.webp"
+  }
+ },
+ "assets/art/gold-leaf-bloom.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/gold-leaf-bloom-1600.webp",
+   "400": "assets/r/art/gold-leaf-bloom-400.webp",
+   "800": "assets/r/art/gold-leaf-bloom-800.webp"
+  }
+ },
+ "assets/art/golden-dusk.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/golden-dusk-1600.webp",
+   "400": "assets/r/art/golden-dusk-400.webp",
+   "800": "assets/r/art/golden-dusk-800.webp"
+  }
+ },
+ "assets/art/golden-flow.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/golden-flow-1600.webp",
+   "400": "assets/r/art/golden-flow-400.webp",
+   "800": "assets/r/art/golden-flow-800.webp"
+  }
+ },
+ "assets/art/good-things-take-time.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/good-things-take-time-1600.webp",
+   "400": "assets/r/art/good-things-take-time-400.webp",
+   "800": "assets/r/art/good-things-take-time-800.webp"
+  }
+ },
+ "assets/art/grace.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/grace-1600.webp",
+   "400": "assets/r/art/grace-400.webp",
+   "800": "assets/r/art/grace-800.webp"
+  }
+ },
+ "assets/art/grand-tourer.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/grand-tourer-1600.webp",
+   "400": "assets/r/art/grand-tourer-400.webp",
+   "800": "assets/r/art/grand-tourer-800.webp"
+  }
+ },
+ "assets/art/hope.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/hope-1600.webp",
+   "400": "assets/r/art/hope-400.webp",
+   "800": "assets/r/art/hope-800.webp"
+  }
+ },
+ "assets/art/impasto-chaotic.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/impasto-chaotic-1600.webp",
+   "400": "assets/r/art/impasto-chaotic-400.webp",
+   "800": "assets/r/art/impasto-chaotic-800.webp"
+  }
+ },
+ "assets/art/impasto-crimson-and-gold.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/impasto-crimson-and-gold-1600.webp",
+   "400": "assets/r/art/impasto-crimson-and-gold-400.webp",
+   "800": "assets/r/art/impasto-crimson-and-gold-800.webp"
+  }
+ },
+ "assets/art/impasto-diagonal.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/impasto-diagonal-1600.webp",
+   "400": "assets/r/art/impasto-diagonal-400.webp",
+   "800": "assets/r/art/impasto-diagonal-800.webp"
+  }
+ },
+ "assets/art/impasto-explosive.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/impasto-explosive-1600.webp",
+   "400": "assets/r/art/impasto-explosive-400.webp",
+   "800": "assets/r/art/impasto-explosive-800.webp"
+  }
+ },
+ "assets/art/impasto-jewel.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/impasto-jewel-1600.webp",
+   "400": "assets/r/art/impasto-jewel-400.webp",
+   "800": "assets/r/art/impasto-jewel-800.webp"
+  }
+ },
+ "assets/art/impasto-vertical.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/impasto-vertical-1600.webp",
+   "400": "assets/r/art/impasto-vertical-400.webp",
+   "800": "assets/r/art/impasto-vertical-800.webp"
+  }
+ },
+ "assets/art/keep-showing-up.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/keep-showing-up-1600.webp",
+   "400": "assets/r/art/keep-showing-up-400.webp",
+   "800": "assets/r/art/keep-showing-up-800.webp"
+  }
+ },
+ "assets/art/lionheart.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/lionheart-1600.webp",
+   "400": "assets/r/art/lionheart-400.webp",
+   "800": "assets/r/art/lionheart-800.webp"
+  }
+ },
+ "assets/art/misty-peaks.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/misty-peaks-1600.webp",
+   "400": "assets/r/art/misty-peaks-400.webp",
+   "800": "assets/r/art/misty-peaks-800.webp"
+  }
+ },
+ "assets/art/moon-ridge.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/moon-ridge-1600.webp",
+   "400": "assets/r/art/moon-ridge-400.webp",
+   "800": "assets/r/art/moon-ridge-800.webp"
+  }
+ },
+ "assets/art/mountain-sunrise.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/mountain-sunrise-1600.webp",
+   "400": "assets/r/art/mountain-sunrise-400.webp",
+   "800": "assets/r/art/mountain-sunrise-800.webp"
+  }
+ },
+ "assets/art/palm-frond.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/palm-frond-1600.webp",
+   "400": "assets/r/art/palm-frond-400.webp",
+   "800": "assets/r/art/palm-frond-800.webp"
+  }
+ },
+ "assets/art/paper-moon.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/paper-moon-1600.webp",
+   "400": "assets/r/art/paper-moon-400.webp",
+   "800": "assets/r/art/paper-moon-800.webp"
+  }
+ },
+ "assets/art/peace.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/peace-1600.webp",
+   "400": "assets/r/art/peace-400.webp",
+   "800": "assets/r/art/peace-800.webp"
+  }
+ },
+ "assets/art/quote-set.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/quote-set-1600.webp",
+   "400": "assets/r/art/quote-set-400.webp",
+   "800": "assets/r/art/quote-set-800.webp"
+  }
+ },
+ "assets/art/reed-line.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/reed-line-1600.webp",
+   "400": "assets/r/art/reed-line-400.webp",
+   "800": "assets/r/art/reed-line-800.webp"
+  }
+ },
+ "assets/art/retro-racer.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/retro-racer-1600.webp",
+   "400": "assets/r/art/retro-racer-400.webp",
+   "800": "assets/r/art/retro-racer-800.webp"
+  }
+ },
+ "assets/art/sage-arch.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/sage-arch-1600.webp",
+   "400": "assets/r/art/sage-arch-400.webp",
+   "800": "assets/r/art/sage-arch-800.webp"
+  }
+ },
+ "assets/art/single-stem.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/single-stem-1600.webp",
+   "400": "assets/r/art/single-stem-400.webp",
+   "800": "assets/r/art/single-stem-800.webp"
+  }
+ },
+ "assets/art/soft-terrazzo.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/soft-terrazzo-1600.webp",
+   "400": "assets/r/art/soft-terrazzo-400.webp",
+   "800": "assets/r/art/soft-terrazzo-800.webp"
+  }
+ },
+ "assets/art/speed-form.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/speed-form-1600.webp",
+   "400": "assets/r/art/speed-form-400.webp",
+   "800": "assets/r/art/speed-form-800.webp"
+  }
+ },
+ "assets/art/stay-wild.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/stay-wild-1600.webp",
+   "400": "assets/r/art/stay-wild-400.webp",
+   "800": "assets/r/art/stay-wild-800.webp"
+  }
+ },
+ "assets/art/sunlit-dunes.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/sunlit-dunes-1600.webp",
+   "400": "assets/r/art/sunlit-dunes-400.webp",
+   "800": "assets/r/art/sunlit-dunes-800.webp"
+  }
+ },
+ "assets/art/terra-forms.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/terra-forms-1600.webp",
+   "400": "assets/r/art/terra-forms-400.webp",
+   "800": "assets/r/art/terra-forms-800.webp"
+  }
+ },
+ "assets/art/tidal-bands.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/tidal-bands-1600.webp",
+   "400": "assets/r/art/tidal-bands-400.webp",
+   "800": "assets/r/art/tidal-bands-800.webp"
+  }
+ },
+ "assets/art/vivid-set.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/vivid-set-1600.webp",
+   "400": "assets/r/art/vivid-set-400.webp",
+   "800": "assets/r/art/vivid-set-800.webp"
+  }
+ },
+ "assets/art/vivid-soul.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/vivid-soul-1600.webp",
+   "400": "assets/r/art/vivid-soul-400.webp",
+   "800": "assets/r/art/vivid-soul-800.webp"
+  }
+ },
+ "assets/art/what-if-it-works-out.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/what-if-it-works-out-1600.webp",
+   "400": "assets/r/art/what-if-it-works-out-400.webp",
+   "800": "assets/r/art/what-if-it-works-out-800.webp"
+  }
+ },
+ "assets/art/wild-grass.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/wild-grass-1600.webp",
+   "400": "assets/r/art/wild-grass-400.webp",
+   "800": "assets/r/art/wild-grass-800.webp"
+  }
+ },
+ "assets/art/wild-spirit.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/wild-spirit-1600.webp",
+   "400": "assets/r/art/wild-spirit-400.webp",
+   "800": "assets/r/art/wild-spirit-800.webp"
+  }
+ },
+ "assets/art/word-set.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/word-set-1600.webp",
+   "400": "assets/r/art/word-set-400.webp",
+   "800": "assets/r/art/word-set-800.webp"
+  }
+ },
+ "assets/art/you-are-enough.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/art/you-are-enough-1600.webp",
+   "400": "assets/r/art/you-are-enough-400.webp",
+   "800": "assets/r/art/you-are-enough-800.webp"
+  }
+ },
+ "assets/artcards/african-queen.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/african-queen-1600.webp",
+   "400": "assets/r/artcards/african-queen-400.webp",
+   "800": "assets/r/artcards/african-queen-800.webp"
+  }
+ },
+ "assets/artcards/be-here-now.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/be-here-now-1600.webp",
+   "400": "assets/r/artcards/be-here-now-400.webp",
+   "800": "assets/r/artcards/be-here-now-800.webp"
+  }
+ },
+ "assets/artcards/breathe.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/breathe-1600.webp",
+   "400": "assets/r/artcards/breathe-400.webp",
+   "800": "assets/r/artcards/breathe-800.webp"
+  }
+ },
+ "assets/artcards/city-rhythm.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/city-rhythm-1600.webp",
+   "400": "assets/r/artcards/city-rhythm-400.webp",
+   "800": "assets/r/artcards/city-rhythm-800.webp"
+  }
+ },
+ "assets/artcards/color-balance.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/color-balance-1600.webp",
+   "400": "assets/r/artcards/color-balance-400.webp",
+   "800": "assets/r/artcards/color-balance-800.webp"
+  }
+ },
+ "assets/artcards/cosmic-drift.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/cosmic-drift-1600.webp",
+   "400": "assets/r/artcards/cosmic-drift-400.webp",
+   "800": "assets/r/artcards/cosmic-drift-800.webp"
+  }
+ },
+ "assets/artcards/dream-big.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/dream-big-1600.webp",
+   "400": "assets/r/artcards/dream-big-400.webp",
+   "800": "assets/r/artcards/dream-big-800.webp"
+  }
+ },
+ "assets/artcards/gold-leaf-bloom.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/gold-leaf-bloom-1600.webp",
+   "400": "assets/r/artcards/gold-leaf-bloom-400.webp",
+   "800": "assets/r/artcards/gold-leaf-bloom-800.webp"
+  }
+ },
+ "assets/artcards/golden-dusk.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/golden-dusk-1600.webp",
+   "400": "assets/r/artcards/golden-dusk-400.webp",
+   "800": "assets/r/artcards/golden-dusk-800.webp"
+  }
+ },
+ "assets/artcards/golden-flow.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/golden-flow-1600.webp",
+   "400": "assets/r/artcards/golden-flow-400.webp",
+   "800": "assets/r/artcards/golden-flow-800.webp"
+  }
+ },
+ "assets/artcards/good-things-take-time.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/good-things-take-time-1600.webp",
+   "400": "assets/r/artcards/good-things-take-time-400.webp",
+   "800": "assets/r/artcards/good-things-take-time-800.webp"
+  }
+ },
+ "assets/artcards/impasto-chaotic.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/impasto-chaotic-1600.webp",
+   "400": "assets/r/artcards/impasto-chaotic-400.webp",
+   "800": "assets/r/artcards/impasto-chaotic-800.webp"
+  }
+ },
+ "assets/artcards/impasto-crimson-and-gold.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/impasto-crimson-and-gold-1600.webp",
+   "400": "assets/r/artcards/impasto-crimson-and-gold-400.webp",
+   "800": "assets/r/artcards/impasto-crimson-and-gold-800.webp"
+  }
+ },
+ "assets/artcards/impasto-diagonal.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/impasto-diagonal-1600.webp",
+   "400": "assets/r/artcards/impasto-diagonal-400.webp",
+   "800": "assets/r/artcards/impasto-diagonal-800.webp"
+  }
+ },
+ "assets/artcards/impasto-explosive.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/impasto-explosive-1600.webp",
+   "400": "assets/r/artcards/impasto-explosive-400.webp",
+   "800": "assets/r/artcards/impasto-explosive-800.webp"
+  }
+ },
+ "assets/artcards/impasto-jewel.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/impasto-jewel-1600.webp",
+   "400": "assets/r/artcards/impasto-jewel-400.webp",
+   "800": "assets/r/artcards/impasto-jewel-800.webp"
+  }
+ },
+ "assets/artcards/impasto-vertical.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/impasto-vertical-1600.webp",
+   "400": "assets/r/artcards/impasto-vertical-400.webp",
+   "800": "assets/r/artcards/impasto-vertical-800.webp"
+  }
+ },
+ "assets/artcards/lionheart.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/lionheart-1600.webp",
+   "400": "assets/r/artcards/lionheart-400.webp",
+   "800": "assets/r/artcards/lionheart-800.webp"
+  }
+ },
+ "assets/artcards/quote-set.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/quote-set-1600.webp",
+   "400": "assets/r/artcards/quote-set-400.webp",
+   "800": "assets/r/artcards/quote-set-800.webp"
+  }
+ },
+ "assets/artcards/stay-wild.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/stay-wild-1600.webp",
+   "400": "assets/r/artcards/stay-wild-400.webp",
+   "800": "assets/r/artcards/stay-wild-800.webp"
+  }
+ },
+ "assets/artcards/vivid-soul.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/vivid-soul-1600.webp",
+   "400": "assets/r/artcards/vivid-soul-400.webp",
+   "800": "assets/r/artcards/vivid-soul-800.webp"
+  }
+ },
+ "assets/artcards/wild-spirit.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/wild-spirit-1600.webp",
+   "400": "assets/r/artcards/wild-spirit-400.webp",
+   "800": "assets/r/artcards/wild-spirit-800.webp"
+  }
+ },
+ "assets/artcards/you-are-enough.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/artcards/you-are-enough-1600.webp",
+   "400": "assets/r/artcards/you-are-enough-400.webp",
+   "800": "assets/r/artcards/you-are-enough-800.webp"
+  }
+ },
+ "assets/digital/ai-automation-pack.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/ai-automation-pack-1600.webp",
+   "400": "assets/r/digital/ai-automation-pack-400.webp",
+   "800": "assets/r/digital/ai-automation-pack-800.webp"
+  }
+ },
+ "assets/digital/restaurant-food-toolkit.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/restaurant-food-toolkit-1600.webp",
+   "400": "assets/r/digital/restaurant-food-toolkit-400.webp",
+   "800": "assets/r/digital/restaurant-food-toolkit-800.webp"
+  }
+ },
+ "assets/digital/sa-business-ebooks.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/sa-business-ebooks-1600.webp",
+   "400": "assets/r/digital/sa-business-ebooks-400.webp",
+   "800": "assets/r/digital/sa-business-ebooks-800.webp"
+  }
+ },
+ "assets/digital/shop-template-bundle.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/shop-template-bundle-1600.webp",
+   "400": "assets/r/digital/shop-template-bundle-400.webp",
+   "800": "assets/r/digital/shop-template-bundle-800.webp"
+  }
+ },
+ "assets/digital/small-business-starter-kit.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/small-business-starter-kit-1600.webp",
+   "400": "assets/r/digital/small-business-starter-kit-400.webp",
+   "800": "assets/r/digital/small-business-starter-kit-800.webp"
+  }
+ },
+ "assets/digital/test-order.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/test-order-1600.webp",
+   "400": "assets/r/digital/test-order-400.webp",
+   "800": "assets/r/digital/test-order-800.webp"
+  }
+ },
+ "assets/digital/website-playbook.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/digital/website-playbook-1600.webp",
+   "400": "assets/r/digital/website-playbook-400.webp",
+   "800": "assets/r/digital/website-playbook-800.webp"
+  }
+ },
+ "assets/free/make-today-count-4x5.jpg": {
+  "h": 2700,
+  "w": 2160,
+  "webp": {
+   "1600": "assets/r/free/make-today-count-4x5-1600.webp",
+   "2160": "assets/r/free/make-today-count-4x5-2160.webp",
+   "400": "assets/r/free/make-today-count-4x5-400.webp",
+   "800": "assets/r/free/make-today-count-4x5-800.webp"
+  }
+ },
+ "assets/free/make-today-count-A4.jpg": {
+  "h": 3508,
+  "w": 2480,
+  "webp": {
+   "1600": "assets/r/free/make-today-count-A4-1600.webp",
+   "2480": "assets/r/free/make-today-count-A4-2480.webp",
+   "400": "assets/r/free/make-today-count-A4-400.webp",
+   "800": "assets/r/free/make-today-count-A4-800.webp"
+  }
+ },
+ "assets/kd/10368.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10368-1000.webp",
+   "400": "assets/r/kd/10368-400.webp",
+   "800": "assets/r/kd/10368-800.webp"
+  }
+ },
+ "assets/kd/10390.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10390-1000.webp",
+   "400": "assets/r/kd/10390-400.webp",
+   "800": "assets/r/kd/10390-800.webp"
+  }
+ },
+ "assets/kd/10559.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10559-1000.webp",
+   "400": "assets/r/kd/10559-400.webp",
+   "800": "assets/r/kd/10559-800.webp"
+  }
+ },
+ "assets/kd/10599.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10599-1000.webp",
+   "400": "assets/r/kd/10599-400.webp",
+   "800": "assets/r/kd/10599-800.webp"
+  }
+ },
+ "assets/kd/10799.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10799-1000.webp",
+   "400": "assets/r/kd/10799-400.webp",
+   "800": "assets/r/kd/10799-800.webp"
+  }
+ },
+ "assets/kd/10838.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10838-1000.webp",
+   "400": "assets/r/kd/10838-400.webp",
+   "800": "assets/r/kd/10838-800.webp"
+  }
+ },
+ "assets/kd/10963.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10963-1000.webp",
+   "400": "assets/r/kd/10963-400.webp",
+   "800": "assets/r/kd/10963-800.webp"
+  }
+ },
+ "assets/kd/10981.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/10981-1000.webp",
+   "400": "assets/r/kd/10981-400.webp",
+   "800": "assets/r/kd/10981-800.webp"
+  }
+ },
+ "assets/kd/11070.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11070-1000.webp",
+   "400": "assets/r/kd/11070-400.webp",
+   "800": "assets/r/kd/11070-800.webp"
+  }
+ },
+ "assets/kd/11340.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11340-1000.webp",
+   "400": "assets/r/kd/11340-400.webp",
+   "800": "assets/r/kd/11340-800.webp"
+  }
+ },
+ "assets/kd/11571.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11571-1000.webp",
+   "400": "assets/r/kd/11571-400.webp",
+   "800": "assets/r/kd/11571-800.webp"
+  }
+ },
+ "assets/kd/11573.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11573-1000.webp",
+   "400": "assets/r/kd/11573-400.webp",
+   "800": "assets/r/kd/11573-800.webp"
+  }
+ },
+ "assets/kd/11609.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11609-1000.webp",
+   "400": "assets/r/kd/11609-400.webp",
+   "800": "assets/r/kd/11609-800.webp"
+  }
+ },
+ "assets/kd/11642.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11642-1000.webp",
+   "400": "assets/r/kd/11642-400.webp",
+   "800": "assets/r/kd/11642-800.webp"
+  }
+ },
+ "assets/kd/11644.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11644-1000.webp",
+   "400": "assets/r/kd/11644-400.webp",
+   "800": "assets/r/kd/11644-800.webp"
+  }
+ },
+ "assets/kd/11698.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11698-1000.webp",
+   "400": "assets/r/kd/11698-400.webp",
+   "800": "assets/r/kd/11698-800.webp"
+  }
+ },
+ "assets/kd/11793.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11793-1000.webp",
+   "400": "assets/r/kd/11793-400.webp",
+   "800": "assets/r/kd/11793-800.webp"
+  }
+ },
+ "assets/kd/11794.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11794-1000.webp",
+   "400": "assets/r/kd/11794-400.webp",
+   "800": "assets/r/kd/11794-800.webp"
+  }
+ },
+ "assets/kd/11808.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11808-1000.webp",
+   "400": "assets/r/kd/11808-400.webp",
+   "800": "assets/r/kd/11808-800.webp"
+  }
+ },
+ "assets/kd/11849.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11849-1000.webp",
+   "400": "assets/r/kd/11849-400.webp",
+   "800": "assets/r/kd/11849-800.webp"
+  }
+ },
+ "assets/kd/11850.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11850-1000.webp",
+   "400": "assets/r/kd/11850-400.webp",
+   "800": "assets/r/kd/11850-800.webp"
+  }
+ },
+ "assets/kd/11852.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11852-1000.webp",
+   "400": "assets/r/kd/11852-400.webp",
+   "800": "assets/r/kd/11852-800.webp"
+  }
+ },
+ "assets/kd/11892.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11892-1000.webp",
+   "400": "assets/r/kd/11892-400.webp",
+   "800": "assets/r/kd/11892-800.webp"
+  }
+ },
+ "assets/kd/11977.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11977-1000.webp",
+   "400": "assets/r/kd/11977-400.webp",
+   "800": "assets/r/kd/11977-800.webp"
+  }
+ },
+ "assets/kd/11984.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/11984-1000.webp",
+   "400": "assets/r/kd/11984-400.webp",
+   "800": "assets/r/kd/11984-800.webp"
+  }
+ },
+ "assets/kd/12107.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12107-1000.webp",
+   "400": "assets/r/kd/12107-400.webp",
+   "800": "assets/r/kd/12107-800.webp"
+  }
+ },
+ "assets/kd/12123.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12123-1000.webp",
+   "400": "assets/r/kd/12123-400.webp",
+   "800": "assets/r/kd/12123-800.webp"
+  }
+ },
+ "assets/kd/12125.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12125-1000.webp",
+   "400": "assets/r/kd/12125-400.webp",
+   "800": "assets/r/kd/12125-800.webp"
+  }
+ },
+ "assets/kd/12130.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12130-1000.webp",
+   "400": "assets/r/kd/12130-400.webp",
+   "800": "assets/r/kd/12130-800.webp"
+  }
+ },
+ "assets/kd/12143.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12143-1000.webp",
+   "400": "assets/r/kd/12143-400.webp",
+   "800": "assets/r/kd/12143-800.webp"
+  }
+ },
+ "assets/kd/12234.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12234-1000.webp",
+   "400": "assets/r/kd/12234-400.webp",
+   "800": "assets/r/kd/12234-800.webp"
+  }
+ },
+ "assets/kd/12319.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12319-1000.webp",
+   "400": "assets/r/kd/12319-400.webp",
+   "800": "assets/r/kd/12319-800.webp"
+  }
+ },
+ "assets/kd/12626.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12626-1000.webp",
+   "400": "assets/r/kd/12626-400.webp",
+   "800": "assets/r/kd/12626-800.webp"
+  }
+ },
+ "assets/kd/12683.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12683-1000.webp",
+   "400": "assets/r/kd/12683-400.webp",
+   "800": "assets/r/kd/12683-800.webp"
+  }
+ },
+ "assets/kd/12688.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12688-1000.webp",
+   "400": "assets/r/kd/12688-400.webp",
+   "800": "assets/r/kd/12688-800.webp"
+  }
+ },
+ "assets/kd/12690.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12690-1000.webp",
+   "400": "assets/r/kd/12690-400.webp",
+   "800": "assets/r/kd/12690-800.webp"
+  }
+ },
+ "assets/kd/12698.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12698-1000.webp",
+   "400": "assets/r/kd/12698-400.webp",
+   "800": "assets/r/kd/12698-800.webp"
+  }
+ },
+ "assets/kd/12699.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12699-1000.webp",
+   "400": "assets/r/kd/12699-400.webp",
+   "800": "assets/r/kd/12699-800.webp"
+  }
+ },
+ "assets/kd/12700.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12700-1000.webp",
+   "400": "assets/r/kd/12700-400.webp",
+   "800": "assets/r/kd/12700-800.webp"
+  }
+ },
+ "assets/kd/12713.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12713-1000.webp",
+   "400": "assets/r/kd/12713-400.webp",
+   "800": "assets/r/kd/12713-800.webp"
+  }
+ },
+ "assets/kd/12754.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12754-1000.webp",
+   "400": "assets/r/kd/12754-400.webp",
+   "800": "assets/r/kd/12754-800.webp"
+  }
+ },
+ "assets/kd/12931.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12931-1000.webp",
+   "400": "assets/r/kd/12931-400.webp",
+   "800": "assets/r/kd/12931-800.webp"
+  }
+ },
+ "assets/kd/12932.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12932-1000.webp",
+   "400": "assets/r/kd/12932-400.webp",
+   "800": "assets/r/kd/12932-800.webp"
+  }
+ },
+ "assets/kd/12933.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12933-1000.webp",
+   "400": "assets/r/kd/12933-400.webp",
+   "800": "assets/r/kd/12933-800.webp"
+  }
+ },
+ "assets/kd/12935.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/12935-1000.webp",
+   "400": "assets/r/kd/12935-400.webp",
+   "800": "assets/r/kd/12935-800.webp"
+  }
+ },
+ "assets/kd/13317.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13317-1000.webp",
+   "400": "assets/r/kd/13317-400.webp",
+   "800": "assets/r/kd/13317-800.webp"
+  }
+ },
+ "assets/kd/13400.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13400-1000.webp",
+   "400": "assets/r/kd/13400-400.webp",
+   "800": "assets/r/kd/13400-800.webp"
+  }
+ },
+ "assets/kd/13402.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13402-1000.webp",
+   "400": "assets/r/kd/13402-400.webp",
+   "800": "assets/r/kd/13402-800.webp"
+  }
+ },
+ "assets/kd/13434.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13434-1000.webp",
+   "400": "assets/r/kd/13434-400.webp",
+   "800": "assets/r/kd/13434-800.webp"
+  }
+ },
+ "assets/kd/13436.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13436-1000.webp",
+   "400": "assets/r/kd/13436-400.webp",
+   "800": "assets/r/kd/13436-800.webp"
+  }
+ },
+ "assets/kd/13444.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13444-1000.webp",
+   "400": "assets/r/kd/13444-400.webp",
+   "800": "assets/r/kd/13444-800.webp"
+  }
+ },
+ "assets/kd/13445.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13445-1000.webp",
+   "400": "assets/r/kd/13445-400.webp",
+   "800": "assets/r/kd/13445-800.webp"
+  }
+ },
+ "assets/kd/13447.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13447-1000.webp",
+   "400": "assets/r/kd/13447-400.webp",
+   "800": "assets/r/kd/13447-800.webp"
+  }
+ },
+ "assets/kd/13451.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/13451-1000.webp",
+   "400": "assets/r/kd/13451-400.webp",
+   "800": "assets/r/kd/13451-800.webp"
+  }
+ },
+ "assets/kd/14073.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14073-1000.webp",
+   "400": "assets/r/kd/14073-400.webp",
+   "800": "assets/r/kd/14073-800.webp"
+  }
+ },
+ "assets/kd/14141.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14141-1000.webp",
+   "400": "assets/r/kd/14141-400.webp",
+   "800": "assets/r/kd/14141-800.webp"
+  }
+ },
+ "assets/kd/14218.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14218-1000.webp",
+   "400": "assets/r/kd/14218-400.webp",
+   "800": "assets/r/kd/14218-800.webp"
+  }
+ },
+ "assets/kd/14219.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14219-1000.webp",
+   "400": "assets/r/kd/14219-400.webp",
+   "800": "assets/r/kd/14219-800.webp"
+  }
+ },
+ "assets/kd/14310.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14310-1000.webp",
+   "400": "assets/r/kd/14310-400.webp",
+   "800": "assets/r/kd/14310-800.webp"
+  }
+ },
+ "assets/kd/14398.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14398-1000.webp",
+   "400": "assets/r/kd/14398-400.webp",
+   "800": "assets/r/kd/14398-800.webp"
+  }
+ },
+ "assets/kd/14711.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14711-1000.webp",
+   "400": "assets/r/kd/14711-400.webp",
+   "800": "assets/r/kd/14711-800.webp"
+  }
+ },
+ "assets/kd/14848.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14848-1000.webp",
+   "400": "assets/r/kd/14848-400.webp",
+   "800": "assets/r/kd/14848-800.webp"
+  }
+ },
+ "assets/kd/14916.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14916-1000.webp",
+   "400": "assets/r/kd/14916-400.webp",
+   "800": "assets/r/kd/14916-800.webp"
+  }
+ },
+ "assets/kd/14925.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14925-1000.webp",
+   "400": "assets/r/kd/14925-400.webp",
+   "800": "assets/r/kd/14925-800.webp"
+  }
+ },
+ "assets/kd/14926.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14926-1000.webp",
+   "400": "assets/r/kd/14926-400.webp",
+   "800": "assets/r/kd/14926-800.webp"
+  }
+ },
+ "assets/kd/14927.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14927-1000.webp",
+   "400": "assets/r/kd/14927-400.webp",
+   "800": "assets/r/kd/14927-800.webp"
+  }
+ },
+ "assets/kd/14937.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/14937-1000.webp",
+   "400": "assets/r/kd/14937-400.webp",
+   "800": "assets/r/kd/14937-800.webp"
+  }
+ },
+ "assets/kd/15106.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15106-1000.webp",
+   "400": "assets/r/kd/15106-400.webp",
+   "800": "assets/r/kd/15106-800.webp"
+  }
+ },
+ "assets/kd/15133.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15133-1000.webp",
+   "400": "assets/r/kd/15133-400.webp",
+   "800": "assets/r/kd/15133-800.webp"
+  }
+ },
+ "assets/kd/15191.jpg": {
+  "h": 885,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15191-1000.webp",
+   "400": "assets/r/kd/15191-400.webp",
+   "800": "assets/r/kd/15191-800.webp"
+  }
+ },
+ "assets/kd/15192.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15192-1000.webp",
+   "400": "assets/r/kd/15192-400.webp",
+   "800": "assets/r/kd/15192-800.webp"
+  }
+ },
+ "assets/kd/15235.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15235-1000.webp",
+   "400": "assets/r/kd/15235-400.webp",
+   "800": "assets/r/kd/15235-800.webp"
+  }
+ },
+ "assets/kd/15257.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15257-1000.webp",
+   "400": "assets/r/kd/15257-400.webp",
+   "800": "assets/r/kd/15257-800.webp"
+  }
+ },
+ "assets/kd/15258.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15258-1000.webp",
+   "400": "assets/r/kd/15258-400.webp",
+   "800": "assets/r/kd/15258-800.webp"
+  }
+ },
+ "assets/kd/15277.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15277-1000.webp",
+   "400": "assets/r/kd/15277-400.webp",
+   "800": "assets/r/kd/15277-800.webp"
+  }
+ },
+ "assets/kd/15287.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15287-1000.webp",
+   "400": "assets/r/kd/15287-400.webp",
+   "800": "assets/r/kd/15287-800.webp"
+  }
+ },
+ "assets/kd/15294.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15294-1000.webp",
+   "400": "assets/r/kd/15294-400.webp",
+   "800": "assets/r/kd/15294-800.webp"
+  }
+ },
+ "assets/kd/15308.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15308-1000.webp",
+   "400": "assets/r/kd/15308-400.webp",
+   "800": "assets/r/kd/15308-800.webp"
+  }
+ },
+ "assets/kd/15534.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/15534-1000.webp",
+   "400": "assets/r/kd/15534-400.webp",
+   "800": "assets/r/kd/15534-800.webp"
+  }
+ },
+ "assets/kd/70036.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70036-1000.webp",
+   "400": "assets/r/kd/70036-400.webp",
+   "800": "assets/r/kd/70036-800.webp"
+  }
+ },
+ "assets/kd/70145.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70145-1000.webp",
+   "400": "assets/r/kd/70145-400.webp",
+   "800": "assets/r/kd/70145-800.webp"
+  }
+ },
+ "assets/kd/70146.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70146-1000.webp",
+   "400": "assets/r/kd/70146-400.webp",
+   "800": "assets/r/kd/70146-800.webp"
+  }
+ },
+ "assets/kd/70148.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70148-1000.webp",
+   "400": "assets/r/kd/70148-400.webp",
+   "800": "assets/r/kd/70148-800.webp"
+  }
+ },
+ "assets/kd/70195.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70195-1000.webp",
+   "400": "assets/r/kd/70195-400.webp",
+   "800": "assets/r/kd/70195-800.webp"
+  }
+ },
+ "assets/kd/70251.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70251-1000.webp",
+   "400": "assets/r/kd/70251-400.webp",
+   "800": "assets/r/kd/70251-800.webp"
+  }
+ },
+ "assets/kd/70261.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70261-1000.webp",
+   "400": "assets/r/kd/70261-400.webp",
+   "800": "assets/r/kd/70261-800.webp"
+  }
+ },
+ "assets/kd/70269.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70269-1000.webp",
+   "400": "assets/r/kd/70269-400.webp",
+   "800": "assets/r/kd/70269-800.webp"
+  }
+ },
+ "assets/kd/70270.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70270-1000.webp",
+   "400": "assets/r/kd/70270-400.webp",
+   "800": "assets/r/kd/70270-800.webp"
+  }
+ },
+ "assets/kd/70320.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70320-1000.webp",
+   "400": "assets/r/kd/70320-400.webp",
+   "800": "assets/r/kd/70320-800.webp"
+  }
+ },
+ "assets/kd/70322.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70322-1000.webp",
+   "400": "assets/r/kd/70322-400.webp",
+   "800": "assets/r/kd/70322-800.webp"
+  }
+ },
+ "assets/kd/70329.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70329-1000.webp",
+   "400": "assets/r/kd/70329-400.webp",
+   "800": "assets/r/kd/70329-800.webp"
+  }
+ },
+ "assets/kd/70358.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70358-1000.webp",
+   "400": "assets/r/kd/70358-400.webp",
+   "800": "assets/r/kd/70358-800.webp"
+  }
+ },
+ "assets/kd/70424.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70424-1000.webp",
+   "400": "assets/r/kd/70424-400.webp",
+   "800": "assets/r/kd/70424-800.webp"
+  }
+ },
+ "assets/kd/70427.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70427-1000.webp",
+   "400": "assets/r/kd/70427-400.webp",
+   "800": "assets/r/kd/70427-800.webp"
+  }
+ },
+ "assets/kd/70544.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70544-1000.webp",
+   "400": "assets/r/kd/70544-400.webp",
+   "800": "assets/r/kd/70544-800.webp"
+  }
+ },
+ "assets/kd/70631.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70631-1000.webp",
+   "400": "assets/r/kd/70631-400.webp",
+   "800": "assets/r/kd/70631-800.webp"
+  }
+ },
+ "assets/kd/70691.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70691-1000.webp",
+   "400": "assets/r/kd/70691-400.webp",
+   "800": "assets/r/kd/70691-800.webp"
+  }
+ },
+ "assets/kd/70839.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70839-1000.webp",
+   "400": "assets/r/kd/70839-400.webp",
+   "800": "assets/r/kd/70839-800.webp"
+  }
+ },
+ "assets/kd/70885.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/70885-1000.webp",
+   "400": "assets/r/kd/70885-400.webp",
+   "800": "assets/r/kd/70885-800.webp"
+  }
+ },
+ "assets/kd/orig-10799.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-10799-1000.webp",
+   "400": "assets/r/kd/orig-10799-400.webp",
+   "800": "assets/r/kd/orig-10799-800.webp"
+  }
+ },
+ "assets/kd/orig-13444.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-13444-1000.webp",
+   "400": "assets/r/kd/orig-13444-400.webp",
+   "800": "assets/r/kd/orig-13444-800.webp"
+  }
+ },
+ "assets/kd/orig-13445.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-13445-1000.webp",
+   "400": "assets/r/kd/orig-13445-400.webp",
+   "800": "assets/r/kd/orig-13445-800.webp"
+  }
+ },
+ "assets/kd/orig-13447.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-13447-1000.webp",
+   "400": "assets/r/kd/orig-13447-400.webp",
+   "800": "assets/r/kd/orig-13447-800.webp"
+  }
+ },
+ "assets/kd/orig-14218.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-14218-1000.webp",
+   "400": "assets/r/kd/orig-14218-400.webp",
+   "800": "assets/r/kd/orig-14218-800.webp"
+  }
+ },
+ "assets/kd/orig-14398.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-14398-1000.webp",
+   "400": "assets/r/kd/orig-14398-400.webp",
+   "800": "assets/r/kd/orig-14398-800.webp"
+  }
+ },
+ "assets/kd/orig-15191.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-15191-1000.webp",
+   "400": "assets/r/kd/orig-15191-400.webp",
+   "800": "assets/r/kd/orig-15191-800.webp"
+  }
+ },
+ "assets/kd/orig-15192.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-15192-1000.webp",
+   "400": "assets/r/kd/orig-15192-400.webp",
+   "800": "assets/r/kd/orig-15192-800.webp"
+  }
+ },
+ "assets/kd/orig-15235.jpg": {
+  "h": 1000,
+  "w": 1000,
+  "webp": {
+   "1000": "assets/r/kd/orig-15235-1000.webp",
+   "400": "assets/r/kd/orig-15235-400.webp",
+   "800": "assets/r/kd/orig-15235-800.webp"
+  }
+ },
+ "assets/og-home.jpg": {
+  "h": 630,
+  "w": 1200,
+  "webp": {
+   "1200": "assets/r/og-home-1200.webp",
+   "400": "assets/r/og-home-400.webp",
+   "800": "assets/r/og-home-800.webp"
+  }
+ },
+ "assets/pos-till.jpg": {
+  "h": 1200,
+  "w": 1600,
+  "webp": {
+   "1600": "assets/r/pos-till-1600.webp",
+   "400": "assets/r/pos-till-400.webp",
+   "800": "assets/r/pos-till-800.webp"
+  }
+ }
+}
